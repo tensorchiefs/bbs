@@ -53,7 +53,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
 
 <tr>
   <td> 19. October </td>
-  <td> Olivier Verscheure (ZPFL) </td>
+  <td> Olivier Verscheure (EPFL) </td>
   <td> From Open Data Science to Collective Intelligence  </td>
   <td> slides (will come soon) </td>
 </tr>
@@ -514,7 +514,3 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
 		</td>
 	  </tr>
 	</table>
-	
-		
-</body>
-</html>
