@@ -1,0 +1,520 @@
+---
+layout: default
+mathjax: true
+title: Datalab Brown Bag Seminars
+---
+<h3>Datalab Brown Bag Seminars</h3>
+
+<ul>
+	<li>Termin alle 3 Wochen Mittwoch von 12 bis 13 meist im <a href="https://www.zhaw.ch/storage/shared/hochschule/lageplaene/lageplan-engineering-technikumstrasse.pdf">TB Gebäue Raum 514 oder TB 534</a> 
+	<li>Perfekt gestylten Power-Points sind nicht nötig, Tafel tut's auch
+	<li>Die Vortragenden müssen keine Experten sein, dumme Fragen sind erwünscht
+	<li>Keine Marketing-Veranstaltung 
+	<li>Essen müsst ihr selbst besorgen
+</ul>
+<br>
+<em> 
+Die ganze Veranstaltung lebt natürlich davon, dass Ihr mitmacht. 
+Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder falls Ihr unbedingt mal was zu ... hören wollt.
+</em>
+
+<h3>Talks</h3>
+
+<table border="1">
+
+<tr>
+  <td> When </td>
+  <td> You  </td>
+  <td> Title  </td>
+  <td> slides   </td>
+</tr>
+
+<tr>
+  <td> 29. November </td>
+  <td> Melanie, Gabriel, Oliver </td>
+  <td> Introduction to Reinforcement Learning  </td>
+  <td> slides   </td>
+</tr>
+
+<tr>
+  <td> 23. November </td>
+  <td> Domenic Bertschi </td>
+  <td> Extreme Gradient Boosting   </td>
+  <td> slides   </td>
+</tr>
+
+
+<tr>
+  <td> 2. November </td>
+  <td> Beate  </td>
+  <td> Some statistical considerations for predictive modelling  </td>
+  <td> slides (will come soon)  </td>
+</tr>
+
+<tr>
+  <td> 19. October </td>
+  <td> Olivier Verscheure (ZPFL) </td>
+  <td> From Open Data Science to Collective Intelligence  </td>
+  <td> slides (will come soon) </td>
+</tr>
+
+<tr>
+  <td> 2. August </td>
+  <td> Lukas  </td>
+  <td> Impressions of the ICVSS CV Summer School  </td>
+  <td> no slides   </td>
+</tr>
+
+
+<tr>
+  <td> 5. July 2017 </td>
+  <td> Ismail Elezi  </td>
+  <td> On Relaxation Labeling  </td>
+  <td>    
+    <a href="files/RelaxationLabelingZHAW.pdf">slides</a> 
+  </td>
+</tr>
+
+
+
+<tr>
+  <td> 7. Juni 2017	</td>
+  <td> Lukas </td>
+  <td> An overview of modern methods for segmantic image segmentation 	</td>
+  <td> <a href=" https://docs.google.com/presentation/d/1x3QO9Or0X9QEgurRBuNeX8_k1WymjuLaY1bvaYgC8Vg/edit?usp=sharing"> slides</a> 	</td>
+</tr>
+
+<tr>
+  <td> 18. Jan 2017	</td>
+  <td> Anna, Kurt, Jan 	</td>
+  <td> Real-Time Alarm Verification with Spark Streaming and Machine Learning</td>
+  <td> 
+    <a href="files/20170123_AlarmVerificationMachineLearningStreaming.pdf">Slides</a> 	
+  </td>
+</tr>
+
+<tr>
+  <td> 10. Jan. 2017	</td>
+  <td> Oliver 	</td>
+  <td> Introduction to Recurrent Neural Networks (RNN)</td>
+  <td> 
+    <a href="files/BBS_RNN.pdf">Slides</a>
+    <a href="https://github.com/oduerr/dl_tutorial/tree/master/tensorflow/RNN">github</a>
+  </td>
+</tr>
+
+<tr>
+  <td> 10. Jan. 2017</td>
+  <td> Beate 	</td>
+  <td> Dropout and Baysian Statistics	</td>
+  <td>
+    	<a href="files/dropouts-brownbag.pdf">Slides</a>
+  </td>
+</tr>
+
+
+<tr>
+  <td> 21. Dec. 2016	</td>
+  <td> Thilo 	</td>
+  <td> Datalab Christmas Lecture: Generative Adverserial Networks (GAN)	</td>
+  <td>  	
+	 <a href="files/GANs.pdf">Slides</a>
+  </td>
+</tr>
+
+<tr>
+  <td> 23 November 2016</td>
+  <td> Oliver </td>
+  <td> Deep Learning with TensorFlow (Again in TB 534)</td>
+  <td> 
+  <a href="files/TF_DeepLearning.pptx.pdf">Slides</a>
+	<a href="https://github.com/oduerr/dl_tutorial">github</a>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td> 16 November 2016</td>
+  <td> Oliver </td>
+  <td> Introduction to TensorFlow </td>
+  <td> 
+	<a href="files/TF_Introduction.pdf">Slides</a>
+	Github: <a href="https://github.com/oduerr/tf_r">R</a>, <a href="https://github.com/oduerr/dl_tutorial">python</a>
+  </td>
+</tr>
+
+
+<tr>
+  <td> 22 Sep	2016</td>
+  <td> Beate 	</td>
+  <td> individual conditional expectation plots </td>
+  <td> <a href="files/individual.partial.dependence.plots.pdf">Slides</a> 	</td>
+</tr>
+
+<tr>
+  <td> 6 July 2016	</td>
+  <td> Thoralf 	</td>
+  <td> Compositional Data 	</td>
+  <td> 
+	<a href="files/mild_160706_brownbag_compositional.pdf">Slides</a>
+	<a href="files/Mild_160706_Examples.zip">code (zipped)</a> 	
+
+  </td>
+</tr>
+
+<tr>
+  <td> 15 June	2016 </td>
+  <td> Manuel 	</td>
+  <td> Climate Modelling on High Performance Computer (HPC) 	</td>
+  <td> <a href="files/Climate_BigDada.pdf">Slides</a> 	</td>
+</tr>
+
+
+<tr>
+  <td> 11 May 2016</td>
+  <td> Oliver 	</td>
+  <td> Variational Autoencoders</td>
+  <td> 
+	<a href="files/vae.pdf">Slides</a>
+	<a href="https://github.com/oduerr/dl_tutorial/tree/master/tensorflow/vae">github</a> 	
+  </td>
+</tr>
+
+<tr>
+  <td>20 April 2016 </td>	
+  <td>Yang </td>
+  <td>Extreme Learning Machines and Its applications in Fault Detection </td>
+  <td><a href="files/4.20.pdf">Slides</a></td>
+</tr>
+
+<tr>
+  <td>11 April 2016 </td>
+    <td>Marcello Pelillo </td>
+  <td>
+      Grouping Games
+  </td>
+	
+  <td>
+      <a href="files/Marcelllo_ZHAW.pdf">Slides</a>
+  </td>
+</tr>
+
+<tr>
+    <td>17 Feburary 2016</td>
+    <td> Phillip</td>
+    <td>
+        D3.js (Data-Driven Documents)
+    </td>
+    <td>
+	<a href="files/D3js_InfoVis.pdf">Slides</a>
+	<a href="http://github.engineering.zhaw.ch/VisualComputingLab/CGdemos">github</a>    
+    </td>
+</tr>
+
+<tr>
+    <td>27 January 2016</td>
+      <td> Beate</td>
+    <td>
+        Auto encoders, PCA and semantic hashing 
+    </td>
+    <td>
+        <a href="files/pca-ae-hashing-27012016.pdf">Slides</a>
+    </td>
+</tr>
+<tr>
+    <td>21 October 2015</td>
+      <td> Stefan (IAS)</td>
+    <td>
+        Learning Long-term Dependencies in Segmented-Memory Recurrent Neural Networks
+    </td>
+    <td>
+        <a href="files/dlab_seminar2015.pdf">Slides</a>
+        <a href="http://github.engineering.zhaw.ch/VisualComputingLab/CGdemos">Github</a>
+    </td>
+</tr>
+
+<tr>
+    <td>7 October 2016</td>
+      <td> Kurt</td>
+    <td>
+        Spark
+    </td>
+    <td>
+        <a href="files/20151007_Hadoop_Spark_Stockinger_DatalabSeminar.pdf">Slides</a>
+    </td>
+</tr>
+
+<tr>
+    <td>15 August 2015</td>
+      <td> Christoph</td>
+    <td>
+        Data Products 
+    </td>
+    <td>
+         <a href="files/150826_DataProducts.pdf">Slides</a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>1 Juli 2015</td>
+      <td> Thilo & Thierry</td>
+    <td>
+        Graf Transformer Network
+    </td>
+    <td>
+         <a href="files/2015_07_01_Learning_End_to_End.pptx.pdf">Slides</a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>11 Juni 2015</td>
+      <td> Beate </td>
+    <td>
+        Causal inference with graphical models
+    </td>
+    <td>
+      <a href="files/causal-graphs-10062015.pdf">Slides</a>
+    </td>
+</tr>
+
+
+
+<tr>
+    <td>20 Mai 2015</td>
+      <td> Christoph (Axa) </td>
+    <td>
+        Telematik
+    </td>
+        Not Available
+    <td>
+    </td>
+</tr>
+
+
+<tr>
+    <td>22 April 2015</td>
+      <td> Oliver </td>
+    <td>
+        Convolutional Neural Nets II: Hands on 
+    </td>
+    <td>
+      <a href="files/ConvNets_24_April.pdf">Slides</a>
+      <a href=https://github.com/oduerr/dl_tutorial/tree/master/lasagne>github</a>
+    </td>
+</tr>
+
+<tr>
+    <td>1 April 2015</td>
+      <td> Thierry </td>
+    <td>
+        IPython for Data Scientistc
+    </td>
+    <td>
+      <a href="files/iPython_Talk.pdf">Slides</a>
+      <a href=http://nbviewer.ipython.org/github/tmusy/play_ipython/tree/master/>github</a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>3 March 2015</td>
+      <td> Jan </td>
+    <td>
+        Computer Vision for Music Identification
+    </td>
+    <td>
+      <a href="files/ke_praesentation.pdf">Slides</a>
+    </td>
+</tr>
+
+<tr>
+    <td>21 Januar 2015</td>
+      <td> Fatih </td>
+    <td>
+        Deep Learning of Text Representations
+    </td>
+    <td>
+      <a href="files/DeepLearningTextRepresentations.pdf">Slides</a>
+    </td>
+</tr>
+
+<tr>
+    <td>17 December 2014</td>
+      <td> Oliver </td>
+    <td>
+        Convolutional Neural Networks
+    </td>
+    <td>
+      <a href="files/ConvNets_17_Dec_1.pdf">Slides</a>
+    </td>
+</tr>
+
+
+
+
+<tr>
+    <td>3 December 2014</td>
+      <td> Melanie </td>
+    <td>
+        Big Data Query Processing with Mixed Workloads
+    </td>
+    <td>
+      <a href="files/ImpalaBBL.pdf">Slides</a>
+  	</td>
+</tr>
+
+
+
+
+<tr>
+    <td>29 Oktober 2014</td>
+      <td> Bernd Wiswedel </td>
+    <td>
+        Introduction to KNIME
+    </td>
+    <td>
+      <a href="files/KNIME_Intro_BWiswedel_22Oct2014.pdf">Slides</a>
+		</td>
+</tr>
+
+
+<tr>
+    <td>15 Oktober 2014</td>
+      <td> Beate </td>
+    <td>
+        Introduction to Random Forests
+    </td>
+    <td>
+      <a href="files/random-forest-intro-presented.pdf">Slides</a>
+		</td>
+</tr>
+
+
+<tr>
+    <td>17 Sepember 2014</td>
+      <td> Oliver </td>
+    <td>
+        Introduction to git/github
+    </td>
+    <td>
+    	<a href="files/IntroductionToGitHub.pptx.pdf">Slides</a>
+		</td>
+</tr>
+
+<tr>
+    <td>10 Juli 2014</td>
+      <td> Thoralf </td>
+    <td>
+        Assoziationmining
+    </td>
+    <td>
+  		<a href="files/mild_140709_brownbag_association.pdf">Slides</a>
+			<a href="files/assoc.R">R-Code</a>
+		</td>
+</tr>
+
+
+   <tr>
+     <td>11 Juni 2014</td>
+     <td> Thilo </td>
+     <td>
+         Multimedia Analysis: Speaker Recognition
+     </td>
+     <td>
+         <a href="files/V02_MultimediaAnalysis_SpeakerRecognition.pdf">Slides</a>
+     </td>
+   </tr>
+
+   <tr>
+     <td>21 Mai 2014</td>
+    <td> Thilo </td>
+    <td>
+        Multimedia Analysis: Audio Type Classification
+    </td>
+    <td>
+        <a href="files/V01_MultimediaAnalysis_AudioSegmentation.pdf">Slides</a>
+    </td>
+  </tr>
+
+
+    <tr>
+    <td>16 April 2014</td>
+		<td> Oliver </td>
+		<td>
+			Community Detection / Graph Drawing </td>
+		<td>
+            <a href="files/GraphDrawing.pdf">Slides</a>
+		</td>
+    </tr>
+        
+        
+  	<td>26 Maerz. 2014</td>
+		<td> Melanie </td>
+		<td> 
+			Multifaceted Feature Set for Information Retrieval </td>
+		<td> 
+		      <a href="files/BBLPraesentation.pdf">Slides</a> 
+		</td>
+		</tr>
+
+
+		<tr>
+		<td>26 Feb. 2014</td>
+		<td> Fatih </td>
+		<td> 
+			Sentiment Analysis</td>
+		<td> 
+            <a href="files/fatih.pdf">Slides 1</a>
+            <a href="files/presi_v0.6.pdf">Slides 2</a>
+		</td>
+		</tr>
+
+
+
+		<tr>
+		<td>5 Feb. 2014</td>
+		<td>Kurt</td>
+		<td> Click Stream Analyse</td>
+		<td>	
+		     Tafel
+		</td>
+		</tr>
+
+
+		<tr>
+		<td>15 Jan. 2014</td>
+		<td>Marcel</td>
+		<td>Bagging and Boosting</td>
+		<td>	
+		     <a href="files/Boosting.pdf">Slides</a>
+		</td>
+		</tr>
+		
+		
+		<tr>
+		<td>11 Dez. 2013</td>
+		<td>Kurt</td>
+		<td>Big Data Analyse mit Hadoop</td>
+		<td>	
+			<a href="files/20131211_BigDataIntro.pptx">Slides I</a>
+			<a href="files/20131211_BigDataIntro2.pptx">Slides II</a>
+		</td>
+		</tr>
+		
+		<tr>
+		<td>20 Nov. 2013</td>
+		<td>Thoralf</td>
+		<td>Prediction with Expert Advice</td>
+		<td>
+			<a href="files/Brownbag_Mildenberger.pdf">Slides</a>
+			<a href="files/weighted3.R">R-Code</a>
+		</td>
+	  </tr>
+	</table>
+	
+		
+</body>
+</html>
