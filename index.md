@@ -6,11 +6,11 @@ title: Datalab Brown Bag Seminars
 <h3>Datalab Brown Bag Seminars</h3>
 
 <ul>
-	<li>Termin alle 3 Wochen Mittwoch von 12 bis 13 meist im <a href="https://www.zhaw.ch/storage/shared/hochschule/lageplaene/lageplan-engineering-technikumstrasse.pdf">TB Gebäue Raum 514 oder TB 534</a> 
-	<li>Perfekt gestylten Power-Points sind nicht nötig, Tafel tut's auch
-	<li>Die Vortragenden müssen keine Experten sein, dumme Fragen sind erwünscht
-	<li>Keine Marketing-Veranstaltung 
-	<li>Essen müsst ihr selbst besorgen
+	<li/>Termin alle 3 Wochen Mittwoch von 12 bis 13 meist im <a href="https://www.zhaw.ch/storage/shared/hochschule/lageplaene/lageplan-engineering-technikumstrasse.pdf">TB Gebäue Raum 514 oder TB 534</a> 
+	<li/>Perfekt gestylten Power-Points sind nicht nötig, Tafel tut's auch
+	<li/>Die Vortragenden müssen keine Experten sein, dumme Fragen sind erwünscht
+	<li/>Keine Marketing-Veranstaltung 
+	<li/>Essen müsst ihr selbst besorgen
 </ul>
 <br>
 <em> 
@@ -19,14 +19,12 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
 </em>
 
 <h3>Talks</h3>
-
 <table border="1">
-
 <tr>
   <td> When </td>
-  <td> You  </td>
+  <td> You    </td>
   <td> Title  </td>
-  <td> slides   </td>
+  <td> slides </td>
 </tr>
 
 <tr>
@@ -40,7 +38,10 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> 23. November </td>
   <td> Domenic Bertschi </td>
   <td> Extreme Gradient Boosting   </td>
-  <td> slides   </td>
+  <td> 
+      <a href="files/Pres_mEVA.pdf">slides</a>,   
+      <a href="files/xgboost.Rmd">code</a>
+  </td>
 </tr>
 
 
@@ -302,7 +303,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
     </td>
     <td>
       <a href="files/ConvNets_24_April.pdf">Slides</a>
-      <a href=https://github.com/oduerr/dl_tutorial/tree/master/lasagne>github</a>
+      <a href="https://github.com/oduerr/dl_tutorial/tree/master/lasagne">github</a>
     </td>
 </tr>
 
@@ -314,7 +315,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
     </td>
     <td>
       <a href="files/iPython_Talk.pdf">Slides</a>
-      <a href=http://nbviewer.ipython.org/github/tmusy/play_ipython/tree/master/>github</a>
+      <a href="http://nbviewer.ipython.org/github/tmusy/play_ipython/tree/master"/>github</a>
     </td>
 </tr>
 

@@ -1,0 +1,95 @@
+---
+title: "xgboost vs. Random Forest vs. gbm"
+output: html_notebook
+---
+classification task with winequality-white dataset
+
+## 1. xgboost - intro and classification task
+
+Load packages and data
+```{r}
+rm(list = ls())
+library("xgboost")
+library("readr")
+wineDat <- read_delim("https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv",  ";", escape_double = FALSE, trim_ws = TRUE)
+```
+
+Prepare data
+
+```{r}
+#wineDat[] <- lapply(wineDat, as.numeric)  # convert to numeric
+
+#one-hot-encoding categorical features!
+#80% For Training:
+set.seed(1135)
+idx <- sample.int(.8*nrow(wineDat), replace = FALSE) 
+
+#stores a matrix in compressed sparse row (CSR) format.
+wineDat_Train <- xgb.DMatrix(data = data.matrix(wineDat[idx,1:11]), 
+                             label = data.matrix(wineDat[idx,12] ))
+
+wineDat_Test <- xgb.DMatrix(data = data.matrix(wineDat[-idx,1:11]), 
+                            label = data.matrix(wineDat[-idx,12] ))
+```
+
+A simple xgb model example (Parameter from help)
+```{r}
+t1 <- system.time(bst <- xgb.train(data = wineDat_Train, num_class = 10,
+                                 max_depth = 2, eta = 1, nrounds= 2, silent = 1,
+                                 objective = "multi:softmax"))
+print(bst)
+```
+Predictor importance
+```{r}
+importance_matrix <- xgb.importance(colnames(wineDat_Train), model = bst)
+xgb.plot.importance(importance_matrix, rel_to_first = TRUE, xlab = "Relative importance")
+```
+Different plot tree function
+```{r}
+xgb.plot.multi.trees(model = bst, feature_names =colnames(wineDat_Train), features_keep = 2)
+#xgb.plot.tree(model = bst, feature_names = colnames(wineDat_Train))
+#xgb.plot.tree(model = bst, feature_names = colnames(wineDat_Train), n_first_tree = 1)
+```
+Predict
+```{r}
+pred <- predict(bst, wineDat_Test)
+(xtabXG <- table(pred, data.matrix(wineDat[-idx,12] ))) #confusion matrix
+(err1 <- mean(pred != data.matrix(wineDat[-idx,12])))
+```
+## 2. Random Forest classification
+
+```{r}
+library("randomForest")
+
+t2 <- system.time(rf.mod <- randomForest(x = data.matrix(wineDat[idx,1:11]), 
+                                y= as.factor(data.matrix(wineDat[idx,12]))) )
+
+pred <- predict(rf.mod, wineDat[-idx,1:11])
+#(xtabRF <- table(pred, data.matrix(wineDat[-idx,12] )))
+err2 <- mean(pred != data.matrix(wineDat[-idx,12]))
+```
+## 3. gradient boosting machine classification
+
+```{r}
+library("gbm")
+
+t3 <- system.time(gbm.mod <- gbm(as.factor(quality)~., 
+                            data = data.frame(wineDat[idx,]) ,
+                            "multinomial", n.trees=100) )
+
+pred <- predict(gbm.mod, data.frame(wineDat[-idx,1:11]), n.trees=100)
+pred <- colnames(pred)[apply(pred,1,which.max)]
+#(xtabGbm <- table(as.factor(pred) , data.matrix(wineDat[-idx,12] )))
+err3 <- mean(as.factor(pred) != data.matrix(wineDat[-idx,12]))
+```
+
+model comparison
+
+```{r}
+
+out <- data.frame(rbind(c(t1[3],t2[3], t3[3]),c(err1, err2, err3) ))
+colnames(out) <- c("xgboost", "randomForest", "gbm")
+rownames(out) <- c("elapsedTime s", "OOS Error")
+round(out,3)
+```
+
