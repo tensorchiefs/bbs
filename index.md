@@ -37,7 +37,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
 <tr>
   <td> 23. November </td>
   <td> Domenic Bertschi </td>
-  <td> Extreme Gradient Boosting   </td>
+  <td> Extreme Gradient Boosting</td>
   <td> 
       <a href="files/Pres_mEVA.pdf">slides</a>,   
       <a href="files/xgboost.Rmd">code</a>
