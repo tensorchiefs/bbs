@@ -49,7 +49,9 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> 2. November </td>
   <td> Beate  </td>
   <td> Some statistical considerations for predictive modelling  </td>
-  <td> slides (will come soon)  </td>
+  <td>    
+    <a href="files/bb-predictive-modeling-upload.pdf">slides</a> 
+  </td>
 </tr>
 
 <tr>
