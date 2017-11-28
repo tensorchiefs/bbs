@@ -315,7 +315,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
     </td>
     <td>
       <a href="files/iPython_Talk.pdf">Slides</a>
-      <a href="http://nbviewer.ipython.org/github/tmusy/play_ipython/tree/master"/>github</a>
+      <a href="http://nbviewer.ipython.org/github/tmusy/play_ipython/tree/master">github</a>
     </td>
 </tr>
 
