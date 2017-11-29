@@ -31,7 +31,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> 29. November </td>
   <td> Melanie, Gabriel, Oliver </td>
   <td> Introduction to Reinforcement Learning  </td>
-  <td> slides   </td>
+  <td> <a href="https://docs.google.com/presentation/d/1jL86kU8hEzEJgySiSRAJnzkE7N0QDwIfk9nyX6JnaFQ/edit?usp=sharing">Policy Gradients</a></td>
 </tr>
 
 <tr>
