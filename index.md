@@ -27,11 +27,33 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> slides </td>
 </tr>
 
+
 <tr>
   <td> 29. November </td>
-  <td> Melanie, Gabriel, Oliver </td>
-  <td> Introduction to Reinforcement Learning  </td>
-  <td> <a href="https://docs.google.com/presentation/d/1jL86kU8hEzEJgySiSRAJnzkE7N0QDwIfk9nyX6JnaFQ/edit?usp=sharing">Policy Gradients</a></td>
+  <td> Gabriel </td>
+  <td> Introduction to Reinforcement Learning:: Introduction / OpenAI Gym </td>
+  <td>
+    <a href="files/20171128_rl_presentation.pdf">slides</a>,
+    <a href="files/gym-maze.zip">code</a>
+  </td>
+</tr>
+<tr>
+  <td> 29. November </td>
+  <td> Melanie </td>
+  <td> Introduction to Reinforcement Learning:: Deep-Q Learning </td>
+  <td>
+    <a href="files/QLearningNNDatalabSeminar.pdf">slides</a></br>
+    code: <a href="files/demo.ipynb">nb</a>,<a href="files/Gridworld.py">env</a>
+    
+  </td>
+</tr>
+<tr>
+  <td> 29. November </td>
+  <td> Oliver </td>
+  <td> Introduction to Reinforcement Learning:: Policy Gradient  </td>
+  <td>
+    <a href="https://docs.google.com/presentation/d/1jL86kU8hEzEJgySiSRAJnzkE7N0QDwIfk9nyX6JnaFQ/edit?usp=sharing">slides</a>
+  </td>
 </tr>
 
 <tr>
