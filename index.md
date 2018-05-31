@@ -27,9 +27,18 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> slides </td>
 </tr>
 
+<tr>
+  <td> 29. May 2018 </td>
+  <td> Gilles Kratzer </td>
+  <td> Bayesian Networks Learning in Nutshell </td>
+  <td>
+    <a href="">slides</a>,
+  </td>
+</tr>
+
 
 <tr>
-  <td> 29. November </td>
+  <td> 29. November 2017 </td>
   <td> Gabriel </td>
   <td> Introduction to Reinforcement Learning:: Introduction / OpenAI Gym </td>
   <td>
@@ -38,7 +47,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   </td>
 </tr>
 <tr>
-  <td> 29. November </td>
+  <td> 29. November 2017 </td>
   <td> Melanie </td>
   <td> Introduction to Reinforcement Learning:: Deep-Q Learning </td>
   <td>
@@ -48,7 +57,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   </td>
 </tr>
 <tr>
-  <td> 29. November </td>
+  <td> 29. November 2017 </td>
   <td> Oliver </td>
   <td> Introduction to Reinforcement Learning:: Policy Gradient  </td>
   <td>
@@ -57,7 +66,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
 </tr>
 
 <tr>
-  <td> 23. November </td>
+  <td> 23. November 2017 </td>
   <td> Domenic Bertschi </td>
   <td> Extreme Gradient Boosting</td>
   <td> 
@@ -68,7 +77,7 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
 
 
 <tr>
-  <td> 2. November </td>
+  <td> 2. November 2017 </td>
   <td> Beate  </td>
   <td> Some statistical considerations for predictive modelling  </td>
   <td>    
@@ -77,14 +86,14 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
 </tr>
 
 <tr>
-  <td> 19. October </td>
+  <td> 19. October 2017 </td>
   <td> Olivier Verscheure (EPFL) </td>
   <td> From Open Data Science to Collective Intelligence  </td>
   <td> slides (will come soon) </td>
 </tr>
 
 <tr>
-  <td> 2. August </td>
+  <td> 2. August 2017 </td>
   <td> Lukas  </td>
   <td> Impressions of the ICVSS CV Summer School  </td>
   <td> no slides   </td>
