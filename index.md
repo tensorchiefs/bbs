@@ -1,9 +1,9 @@
 ---
 layout: default
 mathjax: true
-title: Datalab Brown Bag Seminars
+title: Datalab Brown Bag Seminars on Data Science
 ---
-<h3>Datalab Brown Bag Seminars</h3>
+<h3>Datalab Brown Bag Seminars on Data Science</h3>
 
 <ul>
 	<li/> We aim for talks on methods, papers, conference experiences and ideas you want to discuss
