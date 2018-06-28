@@ -6,25 +6,24 @@ title: Datalab Brown Bag Seminars
 <h3>Datalab Brown Bag Seminars</h3>
 
 <ul>
-	<li/>Termin alle 3 Wochen Mittwoch von 12 bis 13 meist im <a href="https://www.zhaw.ch/storage/shared/hochschule/lageplaene/lageplan-engineering-technikumstrasse.pdf">TB Gebäue Raum 514 oder TB 534</a> 
-	<li/>Perfekt gestylten Power-Points sind nicht nötig, Tafel tut's auch
-	<li/>Die Vortragenden müssen keine Experten sein, dumme Fragen sind erwünscht
-	<li/>Keine Marketing-Veranstaltung 
-	<li/>Essen müsst ihr selbst besorgen
+	<li/> We aim for talks on methods, papers, conference experiences and ideas you want to discuss
+	<li/> The room will be announced via e-mail and will be on the SoE campus <a href="https://www.zhaw.ch/storage/shared/hochschule/lageplaene/lageplan-engineering-technikumstrasse.pdf"></a> 
+	<li/>The presenter do not to be an expert!Discussion and all kind of questions (also stupid ones) are welcome!
+	<li/>No slides are required - the presenter can decide on form (blackboard, talk, slides) and language (english or german).
+	<li/>You might bring your lunch with you
 </ul>
 <br>
 <em> 
-Die ganze Veranstaltung lebt natürlich davon, dass Ihr mitmacht. 
-Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder falls Ihr unbedingt mal was zu ... hören wollt.
+Active contributions are required and welcome from everybody - please contact us (sick@zhaw.ch, murl@zahw.ch) if you have ideas for a topic or want to be included in the mailing list.
 </em>
 
 <h3>Talks</h3>
 <table border="1">
 <tr>
   <td> When </td>
-  <td> You    </td>
+  <td> Who   </td>
   <td> Title  </td>
-  <td> slides </td>
+  <td> Material </td>
 </tr>
 
 https://github.com/tensorchiefs/bbs/blob/master/files/tolk_19062018.pdf
