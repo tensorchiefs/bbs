@@ -27,12 +27,24 @@ Bitte meldet Euch bei mir, falls ihr ein Thema habt und es vorstellen wollt oder
   <td> slides </td>
 </tr>
 
+https://github.com/tensorchiefs/bbs/blob/master/files/tolk_19062018.pdf
+
+<tr>
+  <td> 19.Juni 2018 </td>
+  <td> Vasily Tolkachev </td>
+  <td> Deep Image Representations with Explainable Features</td>
+  <td> 
+      <a href="files/tolk_19062018.pdf">slides</a>   
+  </td>
+</tr>
+
+
 <tr>
   <td> 29. May 2018 </td>
   <td> Gilles Kratzer </td>
   <td> Bayesian Networks Learning in Nutshell </td>
   <td>
-    <a href="">slides</a>,
+    <a href="">slides</a>
   </td>
 </tr>
 
