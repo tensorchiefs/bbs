@@ -26,7 +26,6 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Material </td>
 </tr>
 
-https://github.com/tensorchiefs/bbs/blob/master/files/tolk_19062018.pdf
 
 <tr>
   <td> 19.Juni 2018 </td>
