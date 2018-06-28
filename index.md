@@ -8,8 +8,8 @@ title: Datalab Brown Bag Seminars
 <ul>
 	<li/> We aim for talks on methods, papers, conference experiences and ideas you want to discuss
 	<li/> The room will be announced via e-mail and will be on the SoE campus <a href="https://www.zhaw.ch/storage/shared/hochschule/lageplaene/lageplan-engineering-technikumstrasse.pdf"></a> 
-	<li/>The presenter do not to be an expert!Discussion and all kind of questions (also stupid ones) are welcome!
-	<li/>No slides are required - the presenter can decide on form (blackboard, talk, slides) and language (english or german).
+	<li/>The presenter do not to be an expert! Discussion and all kind of questions (also stupid ones) are welcome!
+	<li/>No slides are required - the presenter can freely decide on the format (blackboard, talk, slides) and language (english or german).
 	<li/>You might bring your lunch with you
 </ul>
 <br>
