@@ -51,7 +51,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 29. November 2017 </td>
-  <td> Gabriel </td>
+  <td> Gabriel Eyyi </td>
   <td> Introduction to Reinforcement Learning:: Introduction / OpenAI Gym </td>
   <td>
     <a href="files/20171128_rl_presentation.pdf">slides</a>,
@@ -61,7 +61,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 29. November 2017 </td>
-  <td> Melanie </td>
+  <td> Melanie Geiger </td>
   <td> Introduction to Reinforcement Learning:: Deep-Q Learning </td>
   <td>
     <a href="files/QLearningNNDatalabSeminar.pdf">slides</a></br>
@@ -71,7 +71,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 29. November 2017 </td>
-  <td> Oliver </td>
+  <td> Oliver Dürr </td>
   <td> Introduction to Reinforcement Learning:: Policy Gradient  </td>
   <td>
     <a href="https://docs.google.com/presentation/d/1jL86kU8hEzEJgySiSRAJnzkE7N0QDwIfk9nyX6JnaFQ/edit?usp=sharing">slides</a>
@@ -90,7 +90,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 2. November 2017 </td>
-  <td> Beate  </td>
+  <td> Beate Sick  </td>
   <td> Some statistical considerations for predictive modelling  </td>
   <td>    
     <a href="files/bb-predictive-modeling-upload.pdf">slides</a> 
@@ -106,7 +106,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 2. August 2017 </td>
-  <td> Lukas  </td>
+  <td> Lukas Tuggener </td>
   <td> Impressions of the ICVSS CV Summer School  </td>
   <td> no slides   </td>
 </tr>
@@ -122,14 +122,14 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 7. June 2017	</td>
-  <td> Lukas </td>
+  <td> Lukas Tuggener </td>
   <td> An overview of modern methods for segmantic image segmentation 	</td>
   <td> <a href=" https://docs.google.com/presentation/d/1x3QO9Or0X9QEgurRBuNeX8_k1WymjuLaY1bvaYgC8Vg/edit?usp=sharing"> slides</a> 	</td>
 </tr>
 
 <tr>
   <td> 18. January 2017	</td>
-  <td> Anna, Kurt, Jan 	</td>
+  <td> Ana Sima, Jan Stampfli, Kurt Stockinger </td>
   <td> Real-Time Alarm Verification with Spark Streaming and Machine Learning</td>
   <td> 
     <a href="files/20170123_AlarmVerificationMachineLearningStreaming.pdf">Slides</a> 	
@@ -138,7 +138,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 10. January 2017	</td>
-  <td> Oliver 	</td>
+  <td> Oliver Dürr </td>
   <td> Introduction to Recurrent Neural Networks (RNN)</td>
   <td> 
     <a href="files/BBS_RNN.pdf">Slides</a>
@@ -148,7 +148,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 10. January 2017</td>
-  <td> Beate 	</td>
+  <td> Beate Sick </td>
   <td> Dropout and Baysian Statistics	</td>
   <td>
     <a href="files/dropouts-brownbag.pdf">Slides</a>
@@ -157,7 +157,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 21. December 2016 </td>
-  <td> Thilo 	</td>
+  <td> Thilo Stadelmann </td>
   <td> Datalab Christmas Lecture: Generative Adverserial Networks (GAN)	</td>
   <td>  	
 <a href="files/GANs.pdf">Slides</a>
@@ -166,7 +166,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 23. November 2016</td>
-  <td> Oliver </td>
+  <td> Oliver Dürr </td>
   <td> Deep Learning with TensorFlow (Again in TB 534)</td>
   <td> 
   <a href="files/TF_DeepLearning.pptx.pdf">Slides</a>
@@ -176,7 +176,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 16. November 2016</td>
-  <td> Oliver </td>
+  <td> Oliver Dürr </td>
   <td> Introduction to TensorFlow </td>
   <td> 
 	<a href="files/TF_Introduction.pdf">Slides</a>
@@ -186,14 +186,14 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 22. September	2016</td>
-  <td> Beate 	</td>
+  <td> Beate Sick </td>
   <td> individual conditional expectation plots </td>
   <td> <a href="files/individual.partial.dependence.plots.pdf">Slides</a> 	</td>
 </tr>
 
 <tr>
   <td> 6. July 2016	</td>
-  <td> Thoralf 	</td>
+  <td> Thoralf Mildenberger </td>
   <td> Compositional Data 	</td>
   <td> 
 	<a href="files/mild_160706_brownbag_compositional.pdf">Slides</a>
@@ -203,14 +203,14 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 15. June	2016 </td>
-  <td> Manuel 	</td>
+  <td> Manuel Renold</td>
   <td> Climate Modelling on High Performance Computer (HPC) 	</td>
   <td> <a href="files/Climate_BigDada.pdf">Slides</a> 	</td>
 </tr>
 
 <tr>
   <td> 11. May 2016</td>
-  <td> Oliver 	</td>
+  <td> Oliver Dürr	</td>
   <td> Variational Autoencoders</td>
   <td> 
 	<a href="files/vae.pdf">Slides</a>
@@ -220,7 +220,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td>20. April 2016 </td>	
-  <td>Yang </td>
+  <td>Yang Hu</td>
   <td>Extreme Learning Machines and Its applications in Fault Detection </td>
   <td><a href="files/4.20.pdf">Slides</a></td>
 </tr>
@@ -238,7 +238,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>17. Feburary 2016</td>
-    <td> Phillip</td>
+    <td> Philipp Ackermann</td>
     <td>
         D3.js (Data-Driven Documents)
     </td>
@@ -250,7 +250,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>27. January 2016</td>
-      <td> Beate</td>
+      <td> Beate Sick</td>
     <td>
         Auto encoders, PCA and semantic hashing 
     </td>
@@ -260,7 +260,7 @@ Active contributions are required and welcome from everybody - please contact us
 </tr>
 <tr>
     <td>21. October 2015</td>
-      <td> Stefan (IAS)</td>
+      <td> Stefan Glüge </td>
     <td>
         Learning Long-term Dependencies in Segmented-Memory Recurrent Neural Networks
     </td>
@@ -272,7 +272,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>7. October 2016</td>
-      <td> Kurt</td>
+      <td> Kurt Stockinger</td>
     <td>
         Spark
     </td>
@@ -283,7 +283,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>15. August 2015</td>
-      <td> Christoph</td>
+      <td> Christoph Heitz</td>
     <td>
         Data Products 
     </td>
@@ -294,7 +294,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>1. July 2015</td>
-      <td> Thilo & Thierry</td>
+      <td> Thilo Stadelmann, Thierry Musy</td>
     <td>
         Graf Transformer Network
     </td>
@@ -305,7 +305,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>11. June 2015</td>
-      <td> Beate </td>
+      <td> Beate Sick </td>
     <td>
         Causal inference with graphical models
     </td>
@@ -327,7 +327,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>22. April 2015</td>
-      <td> Oliver </td>
+      <td> Oliver Dürr </td>
     <td>
         Convolutional Neural Nets II: Hands on 
     </td>
@@ -339,7 +339,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>1. April 2015</td>
-      <td> Thierry </td>
+      <td> Thierry Musy </td>
     <td>
         IPython for Data Scientistc
     </td>
@@ -351,7 +351,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>3. March 2015</td>
-      <td> Jan </td>
+      <td> Yan Ke, Derek Hoiem, Rahul Sukthankar</td>
     <td>
         Computer Vision for Music Identification
     </td>
@@ -362,7 +362,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>21. January 2015</td>
-      <td> Fatih </td>
+      <td> Fatih Uzdilli</td>
     <td>
         Deep Learning of Text Representations
     </td>
@@ -373,7 +373,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>17. December 2014</td>
-      <td> Oliver </td>
+      <td> Oliver Dürr</td>
     <td>
         Convolutional Neural Networks
     </td>
@@ -384,7 +384,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>3. December 2014</td>
-      <td> Melanie </td>
+      <td> Melanie Imhof </td>
     <td>
         Big Data Query Processing with Mixed Workloads
     </td>
@@ -406,7 +406,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>15. October 2014</td>
-      <td> Beate </td>
+      <td> Beate Sick </td>
     <td>
         Introduction to Random Forests
     </td>
@@ -417,7 +417,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>17. September 2014</td>
-      <td> Oliver </td>
+      <td> Oliver Dürr </td>
     <td>
         Introduction to git/github
     </td>
@@ -428,7 +428,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
     <td>10. July 2014</td>
-      <td> Thoralf </td>
+      <td> Thoralf Mildenberger</td>
     <td>
         Assoziationmining
     </td>
@@ -440,7 +440,7 @@ Active contributions are required and welcome from everybody - please contact us
 
    <tr>
      <td>11. June 2014</td>
-     <td> Thilo </td>
+     <td> Thilo Stadelmann </td>
      <td>
          Multimedia Analysis: Speaker Recognition
      </td>
@@ -451,7 +451,7 @@ Active contributions are required and welcome from everybody - please contact us
    
    <tr>
      <td>21. May 2014</td>
-    <td> Thilo </td>
+    <td> Thilo Stadelmann </td>
     <td>
         Multimedia Analysis: Audio Type Classification
     </td>
@@ -462,7 +462,7 @@ Active contributions are required and welcome from everybody - please contact us
   
  <tr>
     <td>16. April 2014</td>
-		<td> Oliver </td>
+		<td> Oliver Dürr </td>
 		<td>
 			Community Detection / Graph Drawing </td>
 		<td>
@@ -471,7 +471,7 @@ Active contributions are required and welcome from everybody - please contact us
     </tr>
    <tr>
   <td>26. March 2014</td>
-		<td> Melanie </td>
+		<td> Melanie Imhof</td>
 		<td> 
 			Multifaceted Feature Set for Information Retrieval </td>
 		<td> 
@@ -481,7 +481,7 @@ Active contributions are required and welcome from everybody - please contact us
 		
 <tr>
 		<td>26. February 2014</td>
-		<td> Fatih </td>
+		<td> Fatih Uzdilli </td>
 		<td> 
 			Sentiment Analysis</td>
 		<td> 
@@ -491,7 +491,7 @@ Active contributions are required and welcome from everybody - please contact us
 </tr>
 <tr>
 		<td>5. February 2014</td>
-		<td>Kurt</td>
+		<td>Kurt Stockinger</td>
 		<td> Click Stream Analyse</td>
 		<td>	
 		     Tafel
@@ -500,7 +500,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
 		<td>15. January 2014</td>
-		<td>Marcel</td>
+		<td>Marcel Dettling</td>
 		<td>Bagging and Boosting</td>
 		<td>	
 		     <a href="files/Boosting.pdf">Slides</a>
@@ -510,7 +510,7 @@ Active contributions are required and welcome from everybody - please contact us
 		
 <tr>
 		<td>11. December 2013</td>
-		<td>Kurt</td>
+		<td>Kurt Stockinger</td>
 		<td>Big Data Analyse mit Hadoop</td>
 		<td>	
 			<a href="files/20131211_BigDataIntro.pptx">Slides I</a>
@@ -520,7 +520,7 @@ Active contributions are required and welcome from everybody - please contact us
 		
 <tr>
 		<td>20. November 2013</td>
-		<td>Thoralf</td>
+		<td>Thoralf Mildenberger</td>
 		<td>Prediction with Expert Advice</td>
 		<td>
 			<a href="files/Brownbag_Mildenberger.pdf">Slides</a>
