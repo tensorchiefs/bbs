@@ -18,6 +18,10 @@ title: Datalab Brown Bag Seminars on Data Science
 Active contributions are required and welcome from everybody - please contact us (sick@zhaw.ch, murl@zahw.ch) if you have ideas for a topic or want to join or leave the seminar mailing list.
 </em>
 
+
+
+
+
 <h3>Talks</h3>
 <table border="1">
 <tr>
@@ -26,18 +30,16 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Title  </td>
   <td> Material </td>
 </tr>
-
-
+	
 <tr>
   <td> 19. June 2018 </td>
   <td> Vasily Tolkachev </td>
   <td> Deep Image Representations with Explainable Features</td>
   <td> 
-      <a href="files/tolk_19062018.pdf">slides</a>   
+     <a href="files/tolk_19062018.pdf">slides</a>   
   </td>
 </tr>
-
-
+	
 <tr>
   <td> 29. May 2018 </td>
   <td> Gilles Kratzer </td>
@@ -46,7 +48,6 @@ Active contributions are required and welcome from everybody - please contact us
     <a href="">slides</a>
   </td>
 </tr>
-
 
 <tr>
   <td> 29. November 2017 </td>
@@ -57,6 +58,7 @@ Active contributions are required and welcome from everybody - please contact us
     <a href="files/gym-maze.zip">code</a>
   </td>
 </tr>
+
 <tr>
   <td> 29. November 2017 </td>
   <td> Melanie </td>
@@ -64,9 +66,9 @@ Active contributions are required and welcome from everybody - please contact us
   <td>
     <a href="files/QLearningNNDatalabSeminar.pdf">slides</a></br>
     code: <a href="files/demo.ipynb">nb</a>,<a href="files/Gridworld.py">env</a>
-    
   </td>
 </tr>
+
 <tr>
   <td> 29. November 2017 </td>
   <td> Oliver </td>
@@ -85,7 +87,6 @@ Active contributions are required and welcome from everybody - please contact us
       <a href="files/xgboost.Rmd">code</a>
   </td>
 </tr>
-
 
 <tr>
   <td> 2. November 2017 </td>
@@ -110,7 +111,6 @@ Active contributions are required and welcome from everybody - please contact us
   <td> no slides   </td>
 </tr>
 
-
 <tr>
   <td> 5. July 2017 </td>
   <td> Ismail Elezi  </td>
@@ -119,8 +119,6 @@ Active contributions are required and welcome from everybody - please contact us
     <a href="files/RelaxationLabelingZHAW.pdf">slides</a> 
   </td>
 </tr>
-
-
 
 <tr>
   <td> 7. Juni 2017	</td>
@@ -153,17 +151,16 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Beate 	</td>
   <td> Dropout and Baysian Statistics	</td>
   <td>
-    	<a href="files/dropouts-brownbag.pdf">Slides</a>
+    <a href="files/dropouts-brownbag.pdf">Slides</a>
   </td>
 </tr>
-
 
 <tr>
   <td> 21. Dec. 2016	</td>
   <td> Thilo 	</td>
   <td> Datalab Christmas Lecture: Generative Adverserial Networks (GAN)	</td>
   <td>  	
-	 <a href="files/GANs.pdf">Slides</a>
+<a href="files/GANs.pdf">Slides</a>
   </td>
 </tr>
 
@@ -177,8 +174,6 @@ Active contributions are required and welcome from everybody - please contact us
   </td>
 </tr>
 
-
-
 <tr>
   <td> 16 November 2016</td>
   <td> Oliver </td>
@@ -188,7 +183,6 @@ Active contributions are required and welcome from everybody - please contact us
 	Github: <a href="https://github.com/oduerr/tf_r">R</a>, <a href="https://github.com/oduerr/dl_tutorial">python</a>
   </td>
 </tr>
-
 
 <tr>
   <td> 22 Sep	2016</td>
@@ -204,7 +198,6 @@ Active contributions are required and welcome from everybody - please contact us
   <td> 
 	<a href="files/mild_160706_brownbag_compositional.pdf">Slides</a>
 	<a href="files/Mild_160706_Examples.zip">code (zipped)</a> 	
-
   </td>
 </tr>
 
@@ -214,7 +207,6 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Climate Modelling on High Performance Computer (HPC) 	</td>
   <td> <a href="files/Climate_BigDada.pdf">Slides</a> 	</td>
 </tr>
-
 
 <tr>
   <td> 11 May 2016</td>
@@ -239,7 +231,6 @@ Active contributions are required and welcome from everybody - please contact us
   <td>
       Grouping Games
   </td>
-	
   <td>
       <a href="files/Marcelllo_ZHAW.pdf">Slides</a>
   </td>
@@ -301,7 +292,6 @@ Active contributions are required and welcome from everybody - please contact us
     </td>
 </tr>
 
-
 <tr>
     <td>1 Juli 2015</td>
       <td> Thilo & Thierry</td>
@@ -312,7 +302,6 @@ Active contributions are required and welcome from everybody - please contact us
          <a href="files/2015_07_01_Learning_End_to_End.pptx.pdf">Slides</a>
     </td>
 </tr>
-
 
 <tr>
     <td>11 Juni 2015</td>
@@ -325,8 +314,6 @@ Active contributions are required and welcome from everybody - please contact us
     </td>
 </tr>
 
-
-
 <tr>
     <td>20 Mai 2015</td>
       <td> Christoph (Axa) </td>
@@ -337,7 +324,6 @@ Active contributions are required and welcome from everybody - please contact us
     <td>
     </td>
 </tr>
-
 
 <tr>
     <td>22 April 2015</td>
@@ -362,7 +348,6 @@ Active contributions are required and welcome from everybody - please contact us
       <a href="http://nbviewer.ipython.org/github/tmusy/play_ipython/tree/master">github</a>
     </td>
 </tr>
-
 
 <tr>
     <td>3 March 2015</td>
@@ -397,9 +382,6 @@ Active contributions are required and welcome from everybody - please contact us
     </td>
 </tr>
 
-
-
-
 <tr>
     <td>3 December 2014</td>
       <td> Melanie </td>
@@ -410,9 +392,6 @@ Active contributions are required and welcome from everybody - please contact us
       <a href="files/ImpalaBBL.pdf">Slides</a>
   	</td>
 </tr>
-
-
-
 
 <tr>
     <td>29 Oktober 2014</td>
@@ -425,7 +404,6 @@ Active contributions are required and welcome from everybody - please contact us
 		</td>
 </tr>
 
-
 <tr>
     <td>15 Oktober 2014</td>
       <td> Beate </td>
@@ -436,7 +414,6 @@ Active contributions are required and welcome from everybody - please contact us
       <a href="files/random-forest-intro-presented.pdf">Slides</a>
 		</td>
 </tr>
-
 
 <tr>
     <td>17 Sepember 2014</td>
@@ -461,7 +438,6 @@ Active contributions are required and welcome from everybody - please contact us
 		</td>
 </tr>
 
-
    <tr>
      <td>11 Juni 2014</td>
      <td> Thilo </td>
@@ -472,7 +448,7 @@ Active contributions are required and welcome from everybody - please contact us
          <a href="files/V02_MultimediaAnalysis_SpeakerRecognition.pdf">Slides</a>
      </td>
    </tr>
-
+   
    <tr>
      <td>21 Mai 2014</td>
     <td> Thilo </td>
@@ -483,9 +459,8 @@ Active contributions are required and welcome from everybody - please contact us
         <a href="files/V01_MultimediaAnalysis_AudioSegmentation.pdf">Slides</a>
     </td>
   </tr>
-
-
-    <tr>
+  
+ <tr>
     <td>16 April 2014</td>
 		<td> Oliver </td>
 		<td>
@@ -494,9 +469,8 @@ Active contributions are required and welcome from everybody - please contact us
             <a href="files/GraphDrawing.pdf">Slides</a>
 		</td>
     </tr>
-        
-        
-  	<td>26 Maerz. 2014</td>
+   <tr>
+  <td>26 Maerz. 2014</td>
 		<td> Melanie </td>
 		<td> 
 			Multifaceted Feature Set for Information Retrieval </td>
@@ -504,9 +478,8 @@ Active contributions are required and welcome from everybody - please contact us
 		      <a href="files/BBLPraesentation.pdf">Slides</a> 
 		</td>
 		</tr>
-
-
-		<tr>
+		
+<tr>
 		<td>26 Feb. 2014</td>
 		<td> Fatih </td>
 		<td> 
@@ -515,31 +488,27 @@ Active contributions are required and welcome from everybody - please contact us
             <a href="files/fatih.pdf">Slides 1</a>
             <a href="files/presi_v0.6.pdf">Slides 2</a>
 		</td>
-		</tr>
-
-
-
-		<tr>
+</tr>
+<tr>
 		<td>5 Feb. 2014</td>
 		<td>Kurt</td>
 		<td> Click Stream Analyse</td>
 		<td>	
 		     Tafel
 		</td>
-		</tr>
+</tr>
 
-
-		<tr>
+<tr>
 		<td>15 Jan. 2014</td>
 		<td>Marcel</td>
 		<td>Bagging and Boosting</td>
 		<td>	
 		     <a href="files/Boosting.pdf">Slides</a>
 		</td>
-		</tr>
+</tr>
 		
 		
-		<tr>
+<tr>
 		<td>11 Dez. 2013</td>
 		<td>Kurt</td>
 		<td>Big Data Analyse mit Hadoop</td>
@@ -547,9 +516,9 @@ Active contributions are required and welcome from everybody - please contact us
 			<a href="files/20131211_BigDataIntro.pptx">Slides I</a>
 			<a href="files/20131211_BigDataIntro2.pptx">Slides II</a>
 		</td>
-		</tr>
+</tr>
 		
-		<tr>
+<tr>
 		<td>20 Nov. 2013</td>
 		<td>Thoralf</td>
 		<td>Prediction with Expert Advice</td>
@@ -558,4 +527,4 @@ Active contributions are required and welcome from everybody - please contact us
 			<a href="files/weighted3.R">R-Code</a>
 		</td>
 	  </tr>
-	</table>
+</table>
