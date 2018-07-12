@@ -23,7 +23,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 
 <h3>Talks</h3>
-<table border="1">
+<table border="0">
 <tr>
   <td> When </td>
   <td> Who   </td>
