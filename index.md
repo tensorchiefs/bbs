@@ -15,7 +15,7 @@ title: Datalab Brown Bag Seminars on Data Science
 </ul>
 <br>
 <em> 
-Active contributions are required and welcome from everybody - please contact us (sick@zhaw.ch, murl@zahw.ch) if you have ideas for a topic or want to join or leave the seminar mailing list.
+Active contributions are required and welcome from everybody - please contact us (sick@zhaw.ch, murl@zahw.ch) if you have ideas for a topic or want to join the seminar mailing list.
 </em>
 
 
