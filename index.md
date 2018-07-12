@@ -64,7 +64,7 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Melanie Geiger </td>
   <td> Introduction to Reinforcement Learning:: Deep-Q Learning </td>
   <td>
-    <a href="files/QLearningNNDatalabSeminar.pdf">slides</a></br>
+    <a href="files/QLearningNNDatalabSeminar.pdf">slides</a>
     <a href="files/demo.ipynb">nb</a> <a href="files/Gridworld.py">env</a>
   </td>
 </tr>
