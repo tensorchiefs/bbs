@@ -320,7 +320,9 @@ Active contributions are required and welcome from everybody - please contact us
     <td>
         Telematik
     </td>
+    <td>
         Not Available
+    </td>
     <td>
     </td>
 </tr>
