@@ -32,6 +32,16 @@ Active contributions are required and welcome from everybody - please contact us
 </tr>
 	
 <tr>
+  <td> 19. July 2018 </td>
+  <td> Beate Sick </td>
+  <td> Historic anecdotes about (non-) causal thinking
+in statistics and artificial intelligence </td>
+  <td> 
+     <a href="20180719_bbs-the-book-of-why.pdf">slides</a>   
+  </td>
+</tr>
+
+<tr>
   <td> 19. June 2018 </td>
   <td> Vasily Tolkachev </td>
   <td> Deep Image Representations with Explainable Features</td>
