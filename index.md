@@ -37,7 +37,7 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Historic anecdotes about (non-) causal thinking
 in statistics and artificial intelligence </td>
   <td> 
-     <a href="20180719_bbs-the-book-of-why.pdf">slides</a>   
+     <a href="files/20180719_bbs-the-book-of-why.pdf">slides</a>   
   </td>
 </tr>
 
