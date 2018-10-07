@@ -55,7 +55,7 @@ in statistics and artificial intelligence </td>
   <td> Gilles Kratzer </td>
   <td> Bayesian Networks Learning in Nutshell </td>
   <td>
-    <a href="">slides</a>
+   <a href="files/gilles-BN.pdf">slides</a> 
   </td>
 </tr>
 
