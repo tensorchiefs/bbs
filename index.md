@@ -30,6 +30,15 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Title  </td>
   <td> Material </td>
 </tr>
+
+<tr>
+  <td> 15. November 2018 </td>
+  <td> Thilo Stadelmann </td>
+  <td> AlphaZero: Learning Games from Selfplay </td>
+  <td> 
+     <a href="files/2018-11-15_AlphaZero-LearningGamesFromSelfplay.pdf">slides</a>   
+  </td>
+</tr>
 	
 <tr>
   <td> 19. July 2018 </td>
