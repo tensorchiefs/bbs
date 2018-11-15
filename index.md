@@ -36,7 +36,9 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Thilo Stadelmann </td>
   <td> AlphaZero: Learning Games from Selfplay </td>
   <td> 
-     <a href="files/2018-11-15_AlphaZero-LearningGamesFromSelfplay.pdf">slides</a>   
+     <a href="files/2018-11-15_AlphaZero-LearningGamesFromSelfplay.pdf">slides</a>
+	  <br />
+     <a href="https://www.youtube.com/watch?v=_Z31-5D3RZg&feature=youtu.be">video</a>   
   </td>
 </tr>
 	
