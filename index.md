@@ -10,7 +10,7 @@ title: Datalab Brown Bag Seminars on Data Science
 	<li/>The presenter does not need to be an expert! 
 	<li/>Discussions and all kind of questions (also stupid ones) are welcome!!
 	<li/>No slides are required - the presenter can freely decide on the format (blackboard, talk, slides) and language (english or german).
-	<li/> In fall semester 2018 the BB seminar takes place from 12:00-13:00 in TB 426   
+	<li/> The BB seminar takes usually place from 12:00-13:00 in TB 426   
 	<li/>You might bring your lunch with you
 </ul>
 <br>
