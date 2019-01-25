@@ -32,6 +32,15 @@ Active contributions are required and welcome from everybody - please contact us
 </tr>
 
 <tr>
+  <td> 23. January 2019 </td>
+  <td> Bernd Freisleben, Uni Marburg </td>
+  <td> Deep Learning for Computer Visision </td>
+  <td> 
+     <a href="files/2019-23-1-Freisleben-DL-overview.pdf">slides</a>   
+  </td>
+</tr>
+
+<tr>
   <td> 15. November 2018 </td>
   <td> Thilo Stadelmann </td>
   <td> AlphaZero: Learning Games from Selfplay </td>
