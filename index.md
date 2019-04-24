@@ -1,10 +1,5 @@
----
-layout: default
-mathjax: true
-title: Datalab Brown Bag Seminars on Data Science
----
-<h3>Datalab Brown Bag Seminars on Data Science</h3>
 
+<h3>Datalab Brown Bag Seminars on Data Science</h3>
 <ul>
 	<li/> We aim for talks on methods, papers, conference experiences and ideas you want to discuss
 	<li/>The presenter does not need to be an expert! 
@@ -17,15 +12,10 @@ title: Datalab Brown Bag Seminars on Data Science
 <em> 
 Active contributions are required and welcome from everybody - please contact us (sick@zhaw.ch, murl@zhaw.ch) if you have ideas for a topic or want to join the seminar mailing list.
 </em>
-
-
-
-
-
 <h3>Talks</h3>
 <table border="0">
 <tr>
-  <td> When </td>
+  <td> When/Where </td>
   <td> Who   </td>
   <td> Title  </td>
   <td> Material </td>
