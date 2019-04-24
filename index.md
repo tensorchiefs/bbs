@@ -25,7 +25,8 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Beate Sick </td>
   <td> Probabilistic Deep Learning </td>
   <td> 
-     <a </a>   
+     <a 
+     </a>   
   </td>
 <tr>
   <td> 23. January 2019 </td>
@@ -44,8 +45,7 @@ Active contributions are required and welcome from everybody - please contact us
 	  <br />
      <a href="https://www.youtube.com/watch?v=_Z31-5D3RZg&feature=youtu.be">video</a>   
   </td>
-</tr>
-	
+</tr>	
 <tr>
   <td> 19. July 2018 </td>
   <td> Beate Sick </td>
@@ -55,7 +55,6 @@ in statistics and artificial intelligence </td>
      <a href="files/20180719_bbs-the-book-of-why.pdf">slides</a>   
   </td>
 </tr>
-
 <tr>
   <td> 19. June 2018 </td>
   <td> Vasily Tolkachev </td>
@@ -64,7 +63,6 @@ in statistics and artificial intelligence </td>
      <a href="files/tolk_19062018.pdf">slides</a>   
   </td>
 </tr>
-	
 <tr>
   <td> 29. May 2018 </td>
   <td> Gilles Kratzer </td>
@@ -73,7 +71,6 @@ in statistics and artificial intelligence </td>
    <a href="files/gilles-BN.pdf">slides</a> 
   </td>
 </tr>
-
 <tr>
   <td> 29. November 2017 </td>
   <td> Gabriel Eyyi </td>
@@ -83,7 +80,6 @@ in statistics and artificial intelligence </td>
     <a href="files/gym-maze.zip">code</a>
   </td>
 </tr>
-
 <tr>
   <td> 29. November 2017 </td>
   <td> Melanie Geiger </td>
@@ -93,7 +89,6 @@ in statistics and artificial intelligence </td>
     <a href="files/demo.ipynb">nb</a> <a href="files/Gridworld.py">env</a>
   </td>
 </tr>
-
 <tr>
   <td> 29. November 2017 </td>
   <td> Oliver Dürr </td>
@@ -102,7 +97,6 @@ in statistics and artificial intelligence </td>
     <a href="https://docs.google.com/presentation/d/1jL86kU8hEzEJgySiSRAJnzkE7N0QDwIfk9nyX6JnaFQ/edit?usp=sharing">slides</a>
   </td>
 </tr>
-
 <tr>
   <td> 23. November 2017 </td>
   <td> Domenic Bertschi </td>
@@ -112,7 +106,6 @@ in statistics and artificial intelligence </td>
       <a href="files/xgboost.Rmd">code</a>
   </td>
 </tr>
-
 <tr>
   <td> 2. November 2017 </td>
   <td> Beate Sick  </td>
@@ -121,21 +114,18 @@ in statistics and artificial intelligence </td>
     <a href="files/bb-predictive-modeling-upload.pdf">slides</a> 
   </td>
 </tr>
-
 <tr>
   <td> 19. October 2017 </td>
   <td> Olivier Verscheure (EPFL) </td>
   <td> From Open Data Science to Collective Intelligence  </td>
   <td> slides (will come soon) </td>
 </tr>
-
 <tr>
   <td> 2. August 2017 </td>
   <td> Lukas Tuggener </td>
   <td> Impressions of the ICVSS CV Summer School  </td>
   <td> no slides   </td>
 </tr>
-
 <tr>
   <td> 5. July 2017 </td>
   <td> Ismail Elezi  </td>
@@ -144,14 +134,12 @@ in statistics and artificial intelligence </td>
     <a href="files/RelaxationLabelingZHAW.pdf">slides</a> 
   </td>
 </tr>
-
 <tr>
   <td> 7. June 2017	</td>
   <td> Lukas Tuggener </td>
   <td> An overview of modern methods for segmantic image segmentation 	</td>
   <td> <a href=" https://docs.google.com/presentation/d/1x3QO9Or0X9QEgurRBuNeX8_k1WymjuLaY1bvaYgC8Vg/edit?usp=sharing"> slides</a> 	</td>
 </tr>
-
 <tr>
   <td> 18. January 2017	</td>
   <td> Ana Sima, Jan Stampfli, Kurt Stockinger </td>
@@ -160,7 +148,6 @@ in statistics and artificial intelligence </td>
     <a href="files/20170123_AlarmVerificationMachineLearningStreaming.pdf">slides</a> 	
   </td>
 </tr>
-
 <tr>
   <td> 10. January 2017	</td>
   <td> Oliver Dürr </td>
@@ -170,7 +157,6 @@ in statistics and artificial intelligence </td>
     <a href="https://github.com/oduerr/dl_tutorial/tree/master/tensorflow/RNN">github</a>
   </td>
 </tr>
-
 <tr>
   <td> 10. January 2017</td>
   <td> Beate Sick </td>
@@ -179,7 +165,6 @@ in statistics and artificial intelligence </td>
     <a href="files/dropouts-brownbag.pdf">slides</a>
   </td>
 </tr>
-
 <tr>
   <td> 21. December 2016 </td>
   <td> Thilo Stadelmann </td>
@@ -188,7 +173,6 @@ in statistics and artificial intelligence </td>
 <a href="files/GANs.pdf">slides</a>
   </td>
 </tr>
-
 <tr>
   <td> 23. November 2016</td>
   <td> Oliver Dürr </td>
@@ -198,7 +182,6 @@ in statistics and artificial intelligence </td>
 	<a href="https://github.com/oduerr/dl_tutorial">github</a>
   </td>
 </tr>
-
 <tr>
   <td> 16. November 2016</td>
   <td> Oliver Dürr </td>
@@ -208,14 +191,12 @@ in statistics and artificial intelligence </td>
 	<a href="https://github.com/oduerr/tf_r">R</a> <a href="https://github.com/oduerr/dl_tutorial">python</a>
   </td>
 </tr>
-
 <tr>
   <td> 22. September	2016</td>
   <td> Beate Sick </td>
   <td> individual conditional expectation plots </td>
   <td> <a href="files/individual.partial.dependence.plots.pdf">slides</a> 	</td>
 </tr>
-
 <tr>
   <td> 6. July 2016	</td>
   <td> Thoralf Mildenberger </td>
@@ -225,14 +206,12 @@ in statistics and artificial intelligence </td>
 	<a href="files/Mild_160706_Examples.zip">code</a> 	
   </td>
 </tr>
-
 <tr>
   <td> 15. June	2016 </td>
   <td> Manuel Renold</td>
   <td> Climate Modelling on High Performance Computer (HPC) 	</td>
   <td> <a href="files/Climate_BigDada.pdf">slides</a> 	</td>
 </tr>
-
 <tr>
   <td> 11. May 2016</td>
   <td> Oliver Dürr	</td>
@@ -242,14 +221,12 @@ in statistics and artificial intelligence </td>
 	<a href="https://github.com/oduerr/dl_tutorial/tree/master/tensorflow/vae">github</a> 	
   </td>
 </tr>
-
 <tr>
   <td>20. April 2016 </td>	
   <td>Yang Hu</td>
   <td>Extreme Learning Machines and Its applications in Fault Detection </td>
   <td><a href="files/4.20.pdf">slides</a></td>
 </tr>
-
 <tr>
   <td>11. April 2016 </td>
     <td>Marcello Pelillo </td>
@@ -260,7 +237,6 @@ in statistics and artificial intelligence </td>
       <a href="files/Marcelllo_ZHAW.pdf">slides</a>
   </td>
 </tr>
-
 <tr>
     <td>17. Feburary 2016</td>
     <td> Philipp Ackermann</td>
@@ -272,7 +248,6 @@ in statistics and artificial intelligence </td>
 	<a href="http://github.engineering.zhaw.ch/VisualComputingLab/CGdemos">github</a>    
     </td>
 </tr>
-
 <tr>
     <td>27. January 2016</td>
       <td> Beate Sick</td>
@@ -294,7 +269,6 @@ in statistics and artificial intelligence </td>
         <a href="http://github.engineering.zhaw.ch/VisualComputingLab/CGdemos">github</a>
     </td>
 </tr>
-
 <tr>
     <td>7. October 2016</td>
       <td> Kurt Stockinger</td>
@@ -305,7 +279,6 @@ in statistics and artificial intelligence </td>
         <a href="files/20151007_Hadoop_Spark_Stockinger_DatalabSeminar.pdf">slides</a>
     </td>
 </tr>
-
 <tr>
     <td>15. August 2015</td>
       <td> Christoph Heitz</td>
@@ -316,7 +289,6 @@ in statistics and artificial intelligence </td>
          <a href="files/150826_DataProducts.pdf">slides</a>
     </td>
 </tr>
-
 <tr>
     <td>1. July 2015</td>
       <td> Thilo Stadelmann, Thierry Musy</td>
@@ -327,7 +299,6 @@ in statistics and artificial intelligence </td>
          <a href="files/2015_07_01_Learning_End_to_End.pptx.pdf">slides</a>
     </td>
 </tr>
-
 <tr>
     <td>11. June 2015</td>
       <td> Beate Sick </td>
@@ -338,7 +309,6 @@ in statistics and artificial intelligence </td>
       <a href="files/causal-graphs-10062015.pdf">slides</a>
     </td>
 </tr>
-
 <tr>
     <td>20. May 2015</td>
       <td> Christoph (Axa) </td>
@@ -347,7 +317,6 @@ in statistics and artificial intelligence </td>
     </td>
     <td> not available</td>
 </tr>
-
 <tr>
     <td>22. April 2015</td>
       <td> Oliver Dürr </td>
@@ -359,7 +328,6 @@ in statistics and artificial intelligence </td>
       <a href="https://github.com/oduerr/dl_tutorial/tree/master/lasagne">github</a>
     </td>
 </tr>
-
 <tr>
     <td>1. April 2015</td>
       <td> Thierry Musy </td>
@@ -371,7 +339,6 @@ in statistics and artificial intelligence </td>
       <a href="http://nbviewer.ipython.org/github/tmusy/play_ipython/tree/master">github</a>
     </td>
 </tr>
-
 <tr>
     <td>3. March 2015</td>
       <td> Yan Ke, Derek Hoiem, Rahul Sukthankar</td>
@@ -382,7 +349,6 @@ in statistics and artificial intelligence </td>
       <a href="files/ke_praesentation.pdf">slides</a>
     </td>
 </tr>
-
 <tr>
     <td>21. January 2015</td>
       <td> Fatih Uzdilli</td>
@@ -393,7 +359,6 @@ in statistics and artificial intelligence </td>
       <a href="files/DeepLearningTextRepresentations.pdf">slides</a>
     </td>
 </tr>
-
 <tr>
     <td>17. December 2014</td>
       <td> Oliver Dürr</td>
@@ -404,7 +369,6 @@ in statistics and artificial intelligence </td>
       <a href="files/ConvNets_17_Dec_1.pdf">slides</a>
     </td>
 </tr>
-
 <tr>
     <td>3. December 2014</td>
       <td> Melanie Imhof </td>
@@ -415,7 +379,6 @@ in statistics and artificial intelligence </td>
       <a href="files/ImpalaBBL.pdf">slides</a>
   	</td>
 </tr>
-
 <tr>
     <td>29. October 2014</td>
       <td> Bernd Wiswedel </td>
@@ -426,7 +389,6 @@ in statistics and artificial intelligence </td>
       <a href="files/KNIME_Intro_BWiswedel_22Oct2014.pdf">slides</a>
 		</td>
 </tr>
-
 <tr>
     <td>15. October 2014</td>
       <td> Beate Sick </td>
@@ -437,7 +399,6 @@ in statistics and artificial intelligence </td>
       <a href="files/random-forest-intro-presented.pdf">slides</a>
 		</td>
 </tr>
-
 <tr>
     <td>17. September 2014</td>
       <td> Oliver Dürr </td>
@@ -448,7 +409,6 @@ in statistics and artificial intelligence </td>
     	<a href="files/IntroductionToGitHub.pptx.pdf">slides</a>
 		</td>
 </tr>
-
 <tr>
     <td>10. July 2014</td>
       <td> Thoralf Mildenberger</td>
@@ -460,7 +420,6 @@ in statistics and artificial intelligence </td>
 			<a href="files/assoc.R">R</a>
 		</td>
 </tr>
-
    <tr>
      <td>11. June 2014</td>
      <td> Thilo Stadelmann </td>
@@ -471,7 +430,6 @@ in statistics and artificial intelligence </td>
          <a href="files/V02_MultimediaAnalysis_SpeakerRecognition.pdf">slides</a>
      </td>
    </tr>
-   
    <tr>
      <td>21. May 2014</td>
     <td> Thilo Stadelmann </td>
@@ -482,7 +440,6 @@ in statistics and artificial intelligence </td>
         <a href="files/V01_MultimediaAnalysis_AudioSegmentation.pdf">slides</a>
     </td>
   </tr>
-  
  <tr>
     <td>16. April 2014</td>
 		<td> Oliver Dürr </td>
@@ -520,7 +477,6 @@ in statistics and artificial intelligence </td>
 		     blackboard
 		</td>
 </tr>
-
 <tr>
 		<td>15. January 2014</td>
 		<td>Marcel Dettling</td>
@@ -528,9 +484,7 @@ in statistics and artificial intelligence </td>
 		<td>	
 		     <a href="files/Boosting.pdf">slides</a>
 		</td>
-</tr>
-		
-		
+</tr>	
 <tr>
 		<td>11. December 2013</td>
 		<td>Kurt Stockinger</td>
@@ -539,8 +493,7 @@ in statistics and artificial intelligence </td>
 			<a href="files/20131211_BigDataIntro.pptx">slides I</a>
 			<a href="files/20131211_BigDataIntro2.pptx">slides II</a>
 		</td>
-</tr>
-		
+</tr>		
 <tr>
 		<td>20. November 2013</td>
 		<td>Thoralf Mildenberger</td>
