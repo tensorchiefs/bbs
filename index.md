@@ -25,8 +25,6 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Beate Sick </td>
   <td> Probabilistic Deep Learning </td>
   <td> 
-     <a 
-     </a>   
   </td>
 <tr>
   <td> 23. January 2019 </td>
