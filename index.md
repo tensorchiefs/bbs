@@ -30,7 +30,13 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Title  </td>
   <td> Material </td>
 </tr>
-
+<tr>
+  <td> 21. May 2019, TB610 </td>
+  <td> Beate Sick </td>
+  <td> Probabilistic Deep Learning </td>
+  <td> 
+     <a </a>   
+  </td>
 <tr>
   <td> 23. January 2019 </td>
   <td> Bernd Freisleben, Uni Marburg </td>
@@ -39,7 +45,6 @@ Active contributions are required and welcome from everybody - please contact us
      <a href="files/2019-23-1-Freisleben-DL-overview.pdf">slides</a>   
   </td>
 </tr>
-
 <tr>
   <td> 15. November 2018 </td>
   <td> Thilo Stadelmann </td>
