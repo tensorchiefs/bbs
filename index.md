@@ -503,4 +503,3 @@ in statistics and artificial intelligence </td>
 			<a href="files/weighted3.R">R</a>
 		</td>
 	  </tr>
-</table>
