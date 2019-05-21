@@ -23,8 +23,9 @@ Active contributions are required and welcome from everybody - please contact us
 <tr>
   <td> 21. May 2019, TB610 </td>
   <td> Beate Sick </td>
-  <td> Probabilistic Deep Learning </td>
+  <td> Uncertainties in Neural Networks </td>
   <td> 
+	<a href="files/21052019-bbs-Beate-uncertainty.pdf">slides</a>
   </td>
 <tr>
   <td> 23. January 2019 </td>
