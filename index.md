@@ -2,7 +2,6 @@
 <h3>Datalab Brown Bag Seminars on Data Science</h3>
 <ul>
 	<li/> We aim for talks on methods, papers, conference experiences and ideas you want to discuss
-	<li/>The presenter does not need to be an expert! 
 	<li/>Discussions and all kind of questions (also stupid ones) are welcome!!
 	<li/>No slides are required - the presenter can freely decide on the format (blackboard, talk, slides) and language (english or german).
 	<li/> The BB seminar takes usually place from 12:00-13:00 in TB 426   
@@ -159,7 +158,7 @@ in statistics and artificial intelligence </td>
 <tr>
   <td> 10. January 2017</td>
   <td> Beate Sick </td>
-  <td> Dropout and Baysian Statistics	</td>
+  <td> Dropout and Bayesian Statistics	</td>
   <td>
     <a href="files/dropouts-brownbag.pdf">slides</a>
   </td>
