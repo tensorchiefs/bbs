@@ -20,6 +20,15 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Material </td>
 </tr>
 <tr>
+  <td> 3. Oct 2019</td>
+  <td> Oliver Dürr </td>
+  <td> Go with the Flow </td>
+  <td> 
+  <a href="files/flow_bbs.pdf">slides | </a> 
+  <a href="https://github.com/tensorchiefs/dl_book_playground/tree/master/flow">github</a>
+  </td>
+<tr>
+<tr>
   <td> 21. May 2019, TB610 </td>
   <td> Beate Sick </td>
   <td> Uncertainties in Neural Networks </td>
