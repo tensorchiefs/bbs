@@ -24,7 +24,7 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Oliver Dürr </td>
   <td> Go with the Flow </td>
   <td> 
-  <a href="files/flow_bbs.pdf">slides | </a> 
+  <a href="files/flows_bbs.pdf">slides | </a> 
   <a href="https://github.com/tensorchiefs/dl_book_playground/tree/master/flow">github</a>
   </td>
 <tr>
