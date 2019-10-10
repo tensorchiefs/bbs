@@ -20,8 +20,16 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Material </td>
 </tr>
 <tr>
+  <td> 10. Oct 2019</td>
+  <td> Lucas Kook, UZH </td>
+  <td> Transformation models - an introduction </td>
+    <td> 
+  <a href="files/mlt.pdf">slides </a> 
+  </td>
+<tr>
+<tr>
   <td> 3. Oct 2019</td>
-  <td> Oliver Dürr </td>
+  <td> Oliver Dürr, HTWG </td>
   <td> Go with the Flow </td>
   <td> 
   <a href="files/flows_bbs.pdf">slides | </a> 
@@ -72,7 +80,7 @@ in statistics and artificial intelligence </td>
 </tr>
 <tr>
   <td> 29. May 2018 </td>
-  <td> Gilles Kratzer </td>
+  <td> Gilles Kratzer, UZH </td>
   <td> Bayesian Networks Learning in Nutshell </td>
   <td>
    <a href="files/gilles-BN.pdf">slides</a> 
