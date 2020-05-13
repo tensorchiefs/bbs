@@ -19,6 +19,14 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Material </td>
 </tr>
 <tr>
+  <td> 8. May 2020</td>
+  <td> Beate Sick  </td>
+  <td> Deep transformation models </td>
+    <td> 
+  <a href="files/2020-May-BB-DTM.pdf">slides </a> 
+  </td>
+<tr>
+<tr>
   <td> 10. Oct 2019</td>
   <td> Lucas Kook, UZH </td>
   <td> Transformation models - an introduction </td>
