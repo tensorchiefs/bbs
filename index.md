@@ -22,7 +22,7 @@ Active contributions are required and welcome from everybody - please contact us
 
 <tr>
   <td> 19. Nov 2020</td>
-  <td> Lucas Kook  </td>
+  <td> Oliver Dürr  </td>
   <td> Ordinal Transformation Models (ONTRAM) </td>
     <td> 
   	<a href="files/ontram_bbs.pdf">slides </a> 
