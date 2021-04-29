@@ -19,7 +19,13 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Material </td>
 </tr>
 
-
+<tr>
+  <td> 29. April 2021</td>
+  <td> Lilach Goren  </td>
+  <td> CNNs for Fault Detection: a Wind Turbine Use Case </td>
+    <td> 
+  <a href="files/Lilach_2021.pdf">slides </a> 
+  </td>
 <tr>
   <td> 19. Nov 2020</td>
   <td> Oliver Dürr  </td>
@@ -29,7 +35,6 @@ Active contributions are required and welcome from everybody - please contact us
   </td>
 <tr>
 </tr>
-
 <tr>
   <td> 18. June 2020</td>
   <td> Lucas Kook  </td>
