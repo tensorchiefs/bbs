@@ -18,7 +18,14 @@ Active contributions are required and welcome from everybody - please contact us
   <td> Title  </td>
   <td> Material </td>
 </tr>
-
+<tr>
+  <td> 29. April 2021</td>
+  <td> Beate Sick  </td>
+  <td> Bayes for dummies - Transformation Models for Flexible Posteriors in Variational Bayes
+ </td>
+    <td> 
+  <a href="files/TM-VI-BB.pdf">slides </a> 
+  </td>
 <tr>
   <td> 29. April 2021</td>
   <td> Lilach Goren  </td>
