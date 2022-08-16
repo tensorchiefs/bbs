@@ -163,7 +163,7 @@ in statistics and artificial intelligence </td>
 </tr>
 <tr>
   <td> 2. November 2017 </td>
-  <td> Beate Sick  </td>
+  <td> Beate Sick   </td>
   <td> Some statistical considerations for predictive modelling  </td>
   <td>    
     <a href="files/bb-predictive-modeling-upload.pdf">slides</a> 
